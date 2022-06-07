@@ -1,1 +1,1 @@
-putchar('"Programming is like building a multilingual puzzle);
+putchar('"Programming is like building a multilingual puzzle');
