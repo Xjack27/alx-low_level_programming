@@ -6,7 +6,7 @@
 
 int main () {
 
-	   char str1[15];
+	   char str1[52];
 
 
 
