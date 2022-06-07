@@ -1,4 +1,3 @@
-#!/bin/bash
 if (n=0)
 {
 printf(is 0)
