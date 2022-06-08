@@ -1,7 +1,8 @@
 #include <stdio.h>
+#include "main.h"
 
 int main(void)
 {
-prinf("_putchar")
+read("_putchar")
 return (0)
 }
