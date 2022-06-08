@@ -5,5 +5,5 @@ int main( int argc, char** argv ) {
 
 	write(1,"_putchar",9);
 
-	return (0)
+	return (0);
 }
