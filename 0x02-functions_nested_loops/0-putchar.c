@@ -3,6 +3,6 @@
 
 int main(void)
 {
-read("_putchar")
+write(1,"_putchar",9)
 return (0)
 }
