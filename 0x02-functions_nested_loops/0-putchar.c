@@ -1,9 +1,8 @@
 #include <stdio.h>
 
-int write(int filedes, const char *buf, unsigned int nbyte);
-int main(void) {
-
-	write(1,"_putchar",9);
-
-	return (0);
+int main(void)
+{
+	char c[] = ('_', 'p', 'u', 't', 'c', 'h', 'a', 'r');
+	int putchar (c);
+	returrn (0);
 }
