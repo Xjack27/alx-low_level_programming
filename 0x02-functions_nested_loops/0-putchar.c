@@ -1,7 +1,8 @@
 #include <stdio.h>
 
+int write(void)
 int main(void)
 {
-fwrite(1,"_putchar",9);
+write(1,"_putchar",9);
 return (0)
 }
